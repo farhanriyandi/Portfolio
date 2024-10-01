@@ -27,7 +27,7 @@ In this project, I utilized data sources from Snowflake, which I then transforme
 ## Others
 * [Pandas](https://github.com/farhanriyandi/Pandas)
 * [Machine Learning](https://github.com/farhanriyandi/Machine-Learning-Portfolio)
-* [Bootcamp Data Engineer](https://github.com/orgs/ALTA-DE4-Farhan-Riyandi-22Juni2000/repositories)
+* [Bootcamp Data Engineer Alterra Academy](https://github.com/orgs/ALTA-DE4-Farhan-Riyandi-22Juni2000/repositories)
 
 [My Linkedin Profile](https://www.linkedin.com/in/farhan-riyandi-67b96b215/)
 
