@@ -22,7 +22,16 @@ This project was created using data available at [here link](https://github.com/
 
 ### ELT-Snowflake-DBT-Airflow
 In this project, I utilized data sources from Snowflake, which I then transformed using DBT before loading it back into Snowflake, and then I i utilized Airflow to orchestrate and distribute the processes within the workflow.
-[here link of my ELT Snowflake DBT Airfloww](https://github.com/farhanriyandi/ELT-Snowflake-DBT-Airflow).
+[here link of my ELT Snowflake DBT Airflow](https://github.com/farhanriyandi/ELT-Snowflake-DBT-Airflow).
+
+### ELT-E-Commerce
+* Uploading the CSV files from Kaggle to Google Cloud Storage.
+* Creating a dataset in BigQuery.
+* Transferring data from Google Cloud Storage to a raw format.
+* Transforming the data using DBT.
+* Orchestrated the workflow using Airflow.
+* Visualizing the data using Metabase.
+[here link of my ELT-E-Commerce](https://github.com/farhanriyandi/ELT-E-Commerce).
 
 ## Others
 * [Pandas](https://github.com/farhanriyandi/Pandas)
